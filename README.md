@@ -59,23 +59,25 @@ pulimedu.html
 
 <html>
     <head>
-    <title>My hometown</title>
+    <title>Waterfalls</title>
     </head>
-    <body bgcolor="purple">
+    <body bgcolor="green">
     <h1 align="center">
     <font color="red"><b>Vellore Map</b></font>    
     </h1>    
     <h3 align="center">
-    <font color="Green"><b>Pulimedu hometown</b></font>    
+    <font color="Green"><b>Waterfalls</b></font>    
     <hr size="3" color="red">
     <p align="justify">
     <font face="Georgia" size="5" color="White">
     Waterfalls can be formed in several ways, but the most common method of formation is that a river courses over a top layer of resistant bedrock before falling onto softer rock, which erodes faster, leading to an increasingly high fall. Waterfalls have been studied for their impact on species living in and around them.
 
-Humans have had a distinct relationship with waterfalls since prehistory, travelling to see them, exploring and naming them. They can present formidable barriers to navigation along rivers. Waterfalls are religious sites in many cultures. Since the 18th century, they have received increased attention as tourist destinations, sources of hydropower, and—particularly since the mid-20th century—as subjects of research. </font>    
+    </font>    
     </p>    
     </body>
 </html>
+
+
 
 
 palamathi.html
@@ -84,19 +86,21 @@ palamathi.html
     <head>
     <title>Hills</title>
     </head>
-    <body bgcolor="purple">
+    <body bgcolor="brown">
     <h1 align="center">
     <font color="red"><b>Vellore Map</b></font>    
     </h1>    
     <h3 align="center">
-    <font color="Green"><b>Palamathi hills</b></font>    
+    <font color="Green"><b>Palmathi Hills</b></font>    
     <hr size="3" color="red">
     <p align="justify">
     <font face="Georgia" size="5" color="White">
-    A hill is a landform that extends above the surrounding terrain. It often has a distinct summit, and is usually applied to peaks which are above elevation compared to the relative landmass, though not as prominent as mountains. Hills fall under the category of slope landforms. </p>    
+    Waterfalls can be formed in several ways, but the most common method of formation is that a river courses over a top layer of resistant bedrock before falling onto softer rock, which erodes faster, leading to an increasingly high fall. Waterfalls have been studied for their impact on species living in and around them.
+
+    </font>    
+    </p>    
     </body>
 </html>
-
 
 srikulirchilingeswarar.html
 
@@ -104,16 +108,19 @@ srikulirchilingeswarar.html
     <head>
     <title>Temple</title>
     </head>
-    <body bgcolor="purple">
+    <body bgcolor="gold">
     <h1 align="center">
     <font color="red"><b>Vellore Map</b></font>    
     </h1>    
     <h3 align="center">
-    <font color="Green"><b>Srikulirchilingeshwar Temple</b></font>    
+    <font color="Green"><b>srikulirchilingeswar Temple</b></font>    
     <hr size="3" color="red">
     <p align="justify">
     <font face="Georgia" size="5" color="White">
-   Chadhurdisai Sri Kulirchilingeswarar Temple is located in Punganoor in Ranipet District. The exact name of this place is known as Ayilam. Punganoor and Kathiyavadi are equi distant from here. This Temple is located amidst a dense forest. Devotees could reach the open air Temple through a single muddy and rickety road. On reaching the Temple there is a huge black South facing Idol of Ganapathy who has to be Prayed first. The Presiding Deity of this Temple is Sri Kulirchi Lingeswar and He is an incarnation of God Shiva.   </p>    
+    Chadhurdisai Sri Kulirchilingeswarar Temple is located in Punganoor in Ranipet District. The exact name of this place is known as Ayilam. Punganoor and Kathiyavadi are equi distant from here. This Temple is located amidst a dense forest. Devotees could reach the open air Temple through a single muddy and rickety road. On reaching the Temple there is a huge black South facing Idol of Ganapathy who has to be Prayed first. The Presiding Deity of this Temple is Sri Kulirchi Lingeswar and He is an incarnation of God Shiva.
+
+    </font>    
+    </p>    
     </body>
 </html>
 
@@ -122,35 +129,34 @@ goldentemple.html
 
 <html>
     <head>
-    <title>Golden temple</title>
+    <title>Airport</title>
     </head>
     <body bgcolor="purple">
     <h1 align="center">
     <font color="red"><b>Vellore Map</b></font>    
     </h1>    
     <h3 align="center">
-    <font color="Green"><b>Golden temple</b></font>    
+    <font color="Green"><b>goldentemple</b></font>    
     <hr size="3" color="red">
     <p align="justify">
     <font face="Georgia" size="5" color="White">
-   Sri Lakshmi Narayani Golden Temple complex inside the Thirupuram spiritual park is situated at the foot of a small range of green hills at Thirumalaikodi (or simply Malaikodi) Vellore in Tamil Nadu, India. It is 120 km from Tirupati, 145 km from Chennai, 160 km from Pondicherry and 200 km from Bengaluru. The Maha Kumbhabhishekam or consecration of the temple and its chief deity, Sri Lakshmi Narayani or Maha Lakshmi, the goddess of wealth, power and prosperity, was held on 24 August 2007, and devotees from all religions and backgrounds are welcome to visit. </p>    
+    ri Lakshmi Narayani Golden Temple complex inside the Thirupuram spiritual park is situated at the foot of a small range of green hills at Thirumalaikodi (or simply Malaikodi) Vellore in Tamil Nadu, India. It is 120 km from Tirupati, 145 km from Chennai, 160 km from Pondicherry and 200 km from Bengaluru. The Maha Kumbhabhishekam or consecration of the temple and its chief deity, Sri Lakshmi Narayani or Maha Lakshmi, the  
+
+    </font>    
+    </p>    
     </body>
 </html>
-
-
 ~~~
 
 ## OUTPUT:
+![alt text](velloremap.png)
+![alt text](golden.png)
+![alt text](<Velloremap (3).png>)
+![alt text](hills.png)
+![alt text](sri.png)
 
-![alt text](<map output.png>)
 
-![alt text](<Hometown output.png>)
 
-![alt text](<Hills output.png>)
-
-![alt text](<Golden temple output.png>)
-
-![alt text](<Temple output.png>)
 
 
 ## RESULT:
